@@ -1,4 +1,4 @@
-# Welcome to a the story of HS/Link v0.0.1a
+# Welcome to the story of HS/Link v0.0.1a
 
 HS/Link is an error correcting bidirecitonal protocol designed to work over noisy telephone lines to facilitate file transfers. During an file transfer, users could conduct two-way chatting along with other diagnostic features while maintaining speeds at the phyical limit of the link. The code is optimized for x86 PCs of the time with their limited memory capabilties and storage so basically it's very light-- less than 40K compiled specifially.
 
